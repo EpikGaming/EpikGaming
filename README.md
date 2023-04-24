@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EpikGaming&hide=prs,issues&show_icons=true&theme=jolly" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpikGaming&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<!--
+![EpikGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpikGaming&hide=prs,issues&show_icons=true&theme=jolly)
+
+[![EpikGaming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpikGaming&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **EpikGaming/EpikGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
