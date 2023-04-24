@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EpikGaming&hide=prs,issues&show_icons=true&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EpikGaming&hide=prs,issues&show_icons=true&theme=buefy" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpikGaming&layout=compact&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpikGaming&layout=compact&theme=buefy" />
 </a>
 
 <!--
